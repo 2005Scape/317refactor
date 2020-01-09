@@ -3,14 +3,15 @@
 // Decompiler options: packimports(3) 
 
 
-public class OnDemandFetcherParent {
+final class VertexNormal
+{
 
-    public void request(int i)
+    public VertexNormal()
     {
     }
 
-    OnDemandFetcherParent()
-    {
-    }
-
+    int x;
+    int y;
+    int z;
+    int magnitude;
 }
